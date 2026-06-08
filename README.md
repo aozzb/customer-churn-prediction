@@ -21,8 +21,8 @@ Predicting customer churn using classification models on the Telco Customer Chur
 
 ## Plots
 ![EDA](./img/eda_plots.png)
-![ROC Curves](roc_curves.png)
-![Feature Importance](feature_importance.png)
+![ROC Curves](./img/roc_curves.png)
+![Feature Importance](./img/feature_importance.png)
 
 ## Tech Stack
 Python · scikit-learn · pandas · matplotlib · seaborn
