@@ -20,7 +20,7 @@ Predicting customer churn using classification models on the Telco Customer Chur
 - Model comparison via ROC curves and confusion matrices
 
 ## Plots
-![EDA](./eda_plots.png)
+![EDA](./img/eda_plots.png)
 ![ROC Curves](roc_curves.png)
 ![Feature Importance](feature_importance.png)
 
