@@ -9,9 +9,9 @@ Predicting customer churn using classification models on the Telco Customer Chur
 ## Results
 | Model | ROC-AUC |
 |---|---|
-| Logistic Regression | 0.XX |
-| Random Forest | 0.XX |
-| Tuned Random Forest | 0.XX |
+| Logistic Regression | 0.8409 |
+| Random Forest | 0.8225 |
+| Tuned Random Forest | 0.8384 |
 
 ## Key Steps
 - EDA and feature engineering on 7,000+ customer records
