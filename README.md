@@ -1,6 +1,7 @@
 # Customer Churn Prediction
 
 Predicting customer churn using classification models on the Telco Customer Churn dataset.
+Dataset link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download
 
 ## Models Used
 - Logistic Regression (baseline)
